@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Olá, eu sou o Kauan 👋</h1>
 
-<!--
-**k-alm/k-alm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![k-alm's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-alm&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+# Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## FrontEnd
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+
+## BackEnd
+[![My Skills](https://skillicons.dev/icons?i=java,python,mysql)](https://skillicons.dev)
+
+## Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=git,eclipse,figma,)](https://skillicons.dev)
